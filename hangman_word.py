@@ -1,0 +1,22 @@
+word_list = [
+    "forest",
+    "mountain",
+    "river",
+    "village",
+    "castle",
+    "desert",
+    "oasis",
+    "cavern",
+    "valley",
+    "skyland",
+    "harbor",
+    "island",
+    "tower",
+    "ruins",
+    "temple",
+    "glacier",
+    "swamp",
+    "volcano",
+    "meadow",
+    "fortress"
+]
